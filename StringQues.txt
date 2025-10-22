@@ -1,0 +1,117 @@
+1. Reverse a String
+
+python
+# Input: "hello"
+# Output: "olleh"
+2. Check if String is Palindrome
+
+python
+# Input: "racecar"
+# Output: True
+# Input: "hello"
+# Output: False
+3. Count Vowels and Consonants
+
+python
+# Input: "hello world"
+# Output: Vowels: 3, Consonants: 7
+4. Remove Duplicate Characters
+
+python
+# Input: "programming"
+# Output: "progamin"
+5. Check if Two Strings are Anagrams
+
+python
+# Input: "listen", "silent"
+# Output: True
+6. Convert String Case (Upper to Lower / Lower to Upper)
+
+python
+# Input: "Hello World"
+# Output: "hELLO wORLD"
+Medium Level (Interview Standard - 15-20 mins each)
+7. First Non-Repeating Character
+
+python
+# Input: "leetcode"
+# Output: "l"
+# Input: "aabb"
+# Output: None
+8. Longest Substring Without Repeating Characters
+
+python
+# Input: "abcabcbb"
+# Output: 3 (substring "abc")
+# Input: "pwwkew"
+# Output: 3 (substring "wke")
+9. Valid Parentheses
+
+python
+# Input: "({[]})"
+# Output: True
+# Input: "({[})"
+# Output: False   
+10. Reverse Words in a String
+
+python
+# Input: "the sky is blue"
+# Output: "blue is sky the"
+11. Check if String is Rotation of Another
+
+python
+# Input: s1 = "waterbottle", s2 = "erbottlewat"
+# Output: True
+12. Group Anagrams
+
+python
+# Input: ["eat", "tea", "tan", "ate", "nat", "bat"]
+# Output: [["eat","tea","ate"], ["tan","nat"], ["bat"]]
+13. Longest Common Prefix
+
+python
+# Input: ["flower", "flow", "flight"]
+# Output: "fl"
+14. String Compression
+
+python
+# Input: "aabcccccaaa"
+# Output: "a2b1c5a3"
+# If compressed string is longer, return original
+15. Count and Say Sequence
+
+python
+# Input: n = 4
+# Output: "1211"
+# Sequence: 1 → 11 → 21 → 1211
+High-Frequency Coditas-Type Questions
+16. Remove All Adjacent Duplicates
+
+python
+# Input: "abbaca"
+# Output: "ca"
+# Explanation: "bb" removed → "aaca" → "aa" removed → "ca"
+17. Isomorphic Strings
+
+python
+# Input: s = "egg", t = "add"
+# Output: True
+# Input: s = "foo", t = "bar"
+# Output: False
+18. Find All Substrings
+
+python
+# Input: "abc"
+# Output: ["a", "b", "c", "ab", "bc", "abc"]
+19. Check if String Contains Only Digits
+
+python
+# Input: "12345"
+# Output: True
+# Input: "123a5"
+# Output: False
+20. Replace Spaces with Special Character
+
+python
+# Input: "hello world", "%20"
+# Output: "hello%20world"
